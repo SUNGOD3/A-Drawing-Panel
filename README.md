@@ -18,4 +18,4 @@
 * Change color to black and white.
 
 ### Build environment:
-DEV C++, Using other methods to build may have some bugs
+DEV C++, Using other methods to build may have some bugs.
