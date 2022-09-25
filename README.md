@@ -17,5 +17,8 @@
 * Reverse canvas color.
 * Change color to black and white.
 
-### Build environment:
+## Build environment:
 DEV C++, Using other methods to build may have some bugs.
+
+## Technical reference
+* Computer graphics teaching materials of NTOU
