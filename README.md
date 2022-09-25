@@ -21,4 +21,4 @@
 DEV C++, Using other methods to build may have some bugs.
 
 ## Technical reference
-* Computer graphics teaching materials of NTOU
+Computer graphics teaching materials of NTOU
