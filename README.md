@@ -3,7 +3,7 @@
 
 ## Implemented features
 
-### The program opens a window and allows user to::
+### The program opens a window and allows user to:
 * Draws 2D objects with different properties in window. Objects can be: polygons, circles, lines, points, text, etc.
 * Include menus in the program.(Hierarchical menus)
 * Handle keyboard, mouse,window and motion events in the program.
@@ -16,3 +16,6 @@
 * Decrease canvas quality.
 * Reverse canvas color.
 * Change color to black and white.
+
+### Build environment:
+DEV C++, Using other methods to build may have some bugs
